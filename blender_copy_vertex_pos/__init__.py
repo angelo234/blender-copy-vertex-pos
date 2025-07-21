@@ -22,7 +22,7 @@ bl_info = {
     "name":        "Copy Vertex Position to Clipboard",
     "description": "Copy world-space position of the selected vertices to the clipboard",
     "author":      "angelo234",
-    "version":     (0, 0, 1),
+    "version":     (0, 1, 0),
     "blender":     (4, 5, 0),
     "category":    "Mesh",
 }
